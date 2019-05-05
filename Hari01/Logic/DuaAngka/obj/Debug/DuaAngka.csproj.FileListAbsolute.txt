@@ -1,0 +1,6 @@
+E:\Bootcamp 196\Hari01\Hari01\DuaAngka\bin\Debug\DuaAngka.exe.config
+E:\Bootcamp 196\Hari01\Hari01\DuaAngka\bin\Debug\DuaAngka.exe
+E:\Bootcamp 196\Hari01\Hari01\DuaAngka\bin\Debug\DuaAngka.pdb
+E:\Bootcamp 196\Hari01\Hari01\DuaAngka\obj\Debug\DuaAngka.csprojResolveAssemblyReference.cache
+E:\Bootcamp 196\Hari01\Hari01\DuaAngka\obj\Debug\DuaAngka.exe
+E:\Bootcamp 196\Hari01\Hari01\DuaAngka\obj\Debug\DuaAngka.pdb

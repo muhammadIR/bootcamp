@@ -1,0 +1,9 @@
+E:\Bootcamp 196\Hari01\Logic 1\Logic 1\bin\Debug\Logic 1.exe.config
+E:\Bootcamp 196\Hari01\Logic 1\Logic 1\bin\Debug\Logic 1.exe
+E:\Bootcamp 196\Hari01\Logic 1\Logic 1\bin\Debug\Logic 1.pdb
+E:\Bootcamp 196\Hari01\Logic 1\Logic 1\obj\Debug\Logic 1.exe
+E:\Bootcamp 196\Hari01\Logic 1\Logic 1\obj\Debug\Logic 1.pdb
+E:\Bootcamp 196\Hari01\Logic 1\Logic 1\obj\Debug\Logic 1.csprojResolveAssemblyReference.cache
+E:\Bootcamp196\Hari01\Logic 1\Logic 1\bin\Debug\Logic 1.exe.config
+E:\Bootcamp196\Hari01\Logic 1\Logic 1\obj\Debug\Logic 1.exe
+E:\Bootcamp196\Hari01\Logic 1\Logic 1\obj\Debug\Logic 1.pdb
